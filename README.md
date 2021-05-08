@@ -1,4 +1,7 @@
 # protractor-drupal-framework
+
+⚠️ **This project has been deprecated.** ⚠️
+
 A test automation framework for Drupal apps, written using Protractor and the PageObjects pattern.
 
 **Pre-requisites:**
